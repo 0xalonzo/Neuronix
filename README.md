@@ -2,17 +2,6 @@
 
 **Neuronix** is a Python-based neural network project that demonstrates the use of matrix operations to build and train a simple feedforward neural network from scratch using **NumPy** and **PyTorch**. This project is designed for learning purposes and aims to provide insight into neural network fundamentals, including forward propagation, activation functions, and backpropagation.
 
-## Table of Contents
-- [About Neuronix](#about-neuronix)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## About Neuronix
 
 Neuronix was created to help users understand the foundational matrix operations in neural networks, such as:
